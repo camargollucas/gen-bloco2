@@ -1,0 +1,1 @@
+SELECT * FROM tb_estudantes WHERE mediaFinal > 7.0;

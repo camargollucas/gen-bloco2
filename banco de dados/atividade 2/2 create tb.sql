@@ -1,0 +1,8 @@
+CREATE TABLE tb_produtos(
+id BIGINT AUTO_INCREMENT PRIMARY KEY,
+produto VARCHAR (255) NOT NULL,
+descricao VARCHAR (255) NOT NULL,
+quantidade INT,
+cadastro DATE, 
+preco DECIMAL (6,2) NOT NULL
+);

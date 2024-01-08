@@ -1,0 +1,1 @@
+UPDATE tb_colaboradores SET salario = 4500.00, funcao = "Líder de Manutenção" WHERE id = 2;

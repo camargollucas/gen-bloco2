@@ -1,0 +1,1 @@
+UPDATE tb_produtos SET quantidade = 40 WHERE id = 1;

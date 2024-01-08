@@ -1,0 +1,1 @@
+UPDATE tb_estudantes SET mediaFinal = 9.0 WHERE id = 1;
